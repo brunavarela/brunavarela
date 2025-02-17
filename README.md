@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Desenvolvedora+Full-Stack.;Bem-Vindo(a)!👋~~)](https://git.io/typing-svg) 
 
-<img src="[https://github.com/user-attachments/assets/7e309f97-e9be-402d-86db-c419e2b310f9](https://raw.githubusercontent.com/brunavarela/brunavarela/refs/heads/main/DALL%C2%B7E%202025-02-17%2013.17.33%20-%20An%20anime-style%20illustration%20of%20a%20girl%20with%20black%20hair%2C%20wearing%20a%20black%20beanie%20and%20glasses%2C%20sitting%20in%20front%20of%20a%20computer%20coding.%20She%20is%20looking%20direc.webp)" 
+<img src="https://raw.githubusercontent.com/brunavarela/brunavarela/refs/heads/main/DALL%C2%B7E%202025-02-17%2013.17.33%20-%20An%20anime-style%20illustration%20of%20a%20girl%20with%20black%20hair%2C%20wearing%20a%20black%20beanie%20and%20glasses%2C%20sitting%20in%20front%20of%20a%20computer%20coding.%20She%20is%20looking%20direc.webp" 
      alt="ilustração de uma garota" 
      width="400px" 
      align="right">
