@@ -17,14 +17,14 @@
 
 ☁️ Ex Aluna da Kenzie Academy.
 
-📚 Tenho experiência profissional de +2 anos sendo 1 ano como full stack e +1 ano como frontend.
+📚 Tenho experiência profissional de +2 anos e meio sendo 1 ano como full stack e 2 anos como frontend.
 
 ## Minha Stack
 💻 Desenvolvimento Front-End com ReactJS, criando interfaces dinâmicas e responsivas. 
 
 🎨 UI/UX Design com Figma e  Adobe Illustrator.
 
-⚙️ Desenvolvimento Back-End com NodedJs, Python e Java, utilizando Spring boot para construir APIs escaláveis e eficientes.  
+⚙️ Desenvolvimento Back-End com NodeJs, Python e Java, utilizando Spring boot para construir APIs escaláveis e eficientes.  
 
 💾 Bancos de Dados relacionais (MySQL) e não relacionais (MongoDB), garantindo eficiência no armazenamento e recuperação de dados.  
 
