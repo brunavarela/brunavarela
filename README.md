@@ -22,7 +22,7 @@
 ## Minha Stack
 💻 Desenvolvimento Front-End com ReactJS, criando interfaces dinâmicas e responsivas. 
 
-🎨 UI/UX Design com Figma e  Adobe Illustrator.
+🎨 UI/UX Design com Figma e  Adobe Illustrator. Behance: https://www.behance.net/brunaborges6
 
 ⚙️ Desenvolvimento Back-End com NodeJs, Python e Java, utilizando Spring boot para construir APIs escaláveis e eficientes.  
 
