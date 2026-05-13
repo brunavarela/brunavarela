@@ -13,11 +13,11 @@
 
 💻 Meu nome é Bruna, sou desenvolvedora full-stack e UI/UX Designer.
   
-👨‍🎓 Sou estudante do 5º semestre de Ciência da Computação na Uniamérica.
+👨‍🎓 Sou estudante do 7º semestre de Ciência da Computação na Uniamérica.
 
 ☁️ Ex Aluna da Kenzie Academy.
 
-📚 Tenho experiência profissional de +2 anos e meio sendo 1 ano como full stack e 2 anos como frontend.
+📚 Tenho experiência profissional de +4 anos como desenvolvedora full stack.
 
 ## Minha Stack
 💻 Desenvolvimento Front-End com ReactJS, criando interfaces dinâmicas e responsivas. 
@@ -28,7 +28,7 @@
 
 💾 Bancos de Dados relacionais (MySQL) e não relacionais (MongoDB), garantindo eficiência no armazenamento e recuperação de dados.  
 
-🌱 Atualmente, estou aprofundando meus conhecimentos em desenolvimento mobile com React Native.
+🌱 Atualmente trabalho como PJ e estou aprofundando meus conhecimentos em desenolvimento mobile com React Native.
 
 ## Contato
 
